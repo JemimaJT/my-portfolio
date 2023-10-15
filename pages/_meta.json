@@ -2,7 +2,8 @@
     "index": {
       "title": "Home",
       "theme": {
-        "navbar": false
+        "navbar": false,
+        "darkMode": true
       }
     }
   }
