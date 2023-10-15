@@ -1,9 +1,7 @@
 const YEAR = new Date().getFullYear()
 
 export default{
-  navbar: {
-    component: false
-  }
+  darkMode: true
   footer: (
     <small style={{ display: 'block', marginTop: '8rem' }}>
       <time>{YEAR}</time> © Jemima Tio.
